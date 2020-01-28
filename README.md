@@ -3,3 +3,8 @@ WMTCodeathon source control and deployment repo
 
 
 Call /get-inventory to test the API
+
+Ashish
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRb02Z1Au2E7hprRwl0G6zn2bPDlWf6kY7nH6owrIG4ZurdijJ/iqg7dE+JsyoroVOHXku+zRm155Blct3V8G+TagwyPHvNHUAZVkzs0SB3mZA5ZuaY5asSiYhgrg/GQGTQhuc9SiDmK1SyPm5/deQ3trU7vCBHXtQrbjT0t9ZJYw8nMui0Ur+8bGzLd6Zq8WWVkPT2bAVov2k+5oIijhtXQRZD6Q2smgWwG66M0jH0tq7mwr6/0Y/iYgRz/d+yXGP9zSPSvjIkOtirxPTAZBgtLajP/SKH7dfiTlJSuZO67yO7dVcwnLlwDNMdlZ9ZRRFFiT9W9luHOKLcGxCb7/F Administrator@EC2AMAZ-NR9FV8B
+
